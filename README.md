@@ -12,7 +12,9 @@
 </p>
 
 <div align="center">
-  <a href="https://x.com/pratosuco" target="_blank"><img src="http://i.imgur.com/tXSoThF.png"></a>
+  <a href="https://x.com/pratosuco" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%2300FFFF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+  </a>
 </div>
 
 <div align="center">

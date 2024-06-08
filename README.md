@@ -15,6 +15,9 @@
   <a href="https://x.com/pratosuco" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%2300FFFF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
+  <a href="https://x.com/pratosuco" target="_blank">
+    <img src="http://i.imgur.com/wWzX9uB.png" alt="Twitter Icon" height="30">
+  </a>
 </div>
 
 <div align="center">

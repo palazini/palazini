@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">  
-<a href="https://x.com/pratosuco" target="_blank"><img src="Twitter.app/Contents/Resources/Icon.icns"</a>
+<a href="https://x.com/pratosuco" target="_blank"><img src="http://i.imgur.com/wWzX9uB.png"</a>
 </div>
 
 <div align="center">

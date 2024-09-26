@@ -7,8 +7,9 @@
 
 <div align=left>
    <img src="https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   </div>
+
+   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palazini&bg_color=000000&color=15e5a6&line=00FFFF&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

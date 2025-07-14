@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://br.linkedin.com/in/gabriel-palazini" target="_blank">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="Linkedin Badge">
+    <img src="" alt="Linkedin Badge">
   </a>
 </div>
 

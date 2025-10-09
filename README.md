@@ -1,16 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo,+meu+nome+%C3%A9+Gabriel+Palazini;Eu+tenho+18+anos;+E+trabalho+na+Spirax+Sarco;)](https://git.io/typing-svg)
+<!-- Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+
+<h1 align="center">👋 Olá, eu sou o Gabriel Palazini!</h1>
+
+<p align="center">
+  💻 Desenvolvedor e técnico na <b>Spirax Sarco</b> <br>
+  🎯 Apaixonado por tecnologia, automação e microcontroladores <br>
+  📍 Brasil 🇧🇷
+</p>
+
+---
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=palazini&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="palazini's status" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palazini&layout=compact&hide_border=true&title_color=00FFFF&text_color=A020F0&bg_color=0d1117" />
 </div>
 
-<div align=left>
-   <img src="https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  </div>
+---
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### 🧠 Tecnologias e Ferramentas
 
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+---
+
+### 📊 Atividade no GitHub
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palazini&bg_color=000000&color=15e5a6&line=00FFFF&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -18,16 +38,27 @@
   <img src="https://github-profile-trophy.vercel.app/?username=palazini&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+---
+
+### 🌐 Contato
+
 <div align="center">
   <a href="https://br.linkedin.com/in/gabriel-palazini" target="_blank">
-    <img src="" alt="Linkedin Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gabriel.palazini@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-A020F0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
+---
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/palazini/count.svg" /></p> 
-<br></div>
+<br>
+<p><b>Contador de visitas</b></p>
+<img src="https://profile-counter.glitch.me/palazini/count.svg" />
+<br>
+</div>
 
 <div align="center">
 

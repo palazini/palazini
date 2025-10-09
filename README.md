@@ -4,8 +4,8 @@
 <h1 align="center">👋 Olá, eu sou o Gabriel Palazini!</h1>
 
 <p align="center">
-  💻 Desenvolvedor e técnico na <b>Spirax Sarco</b> <br>
-  🎯 Apaixonado por tecnologia, automação e microcontroladores <br>
+  💻 Desenvolvedor por hobby <br>
+  🎯 Apaixonado por tecnologia e automação <br>
   📍 Brasil 🇧🇷
 </p>
 
@@ -46,7 +46,7 @@
   <a href="https://br.linkedin.com/in/gabriel-palazini" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:gabriel.palazini@gmail.com">
+  <a href="mailto:gabrielpalazini1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-A020F0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>

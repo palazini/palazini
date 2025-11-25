@@ -32,21 +32,21 @@
 <div align="center">
 
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,py,java,rust,go,cs,html,css,js,ts,nodejs,react,nextjs,vue,svelte,astro&perline=9"
+    src="https://skillicons.dev/icons?i=c,cpp,py,java,cs,html,css,js,ts,nodejs,react,nextjs"
     alt="Linguagens e frameworks"
   />
 
   <br/><br/>
 
   <img
-    src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite,webpack,postgres,mysql,sqlite,mongodb,redis&perline=9"
+    src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite,postgres,mysql,sqlite,mongodb"
     alt="Front-end, bancos e tooling"
   />
 
   <br/><br/>
 
   <img
-    src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,gitlab,vscode,neovim,postman&perline=9"
+    src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,vscode,postman&perline=9"
     alt="DevOps, CLI e ferramentas"
   />
 

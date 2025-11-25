@@ -47,7 +47,6 @@
 
   <img
     src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,vscode,postman&perline=9"
-    alt="DevOps, CLI e ferramentas"
   />
 
   <br/><br/>

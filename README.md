@@ -51,11 +51,6 @@
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Backend-1e1b4b?style=for-the-badge&logo=node.js&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/CLI%20%26%20Ferramentas-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Estudo-C%20%2F%20C%2B%2B%20%2F%20Python-312e81?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arquitetura-Servi%C3%A7os%20%26%20camadas-4c1d95?style=for-the-badge" />
-
 </div>
 
 ---

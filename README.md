@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://images.rr.pt/17845_pia12567_800w15277be9defaultlarge_1024.jpg" width="120" style="border-radius: 50%;" alt="Avatar Gabriel Palazini"/>
+  <img src="https://unsplash.com/photos/RhhFdnVP-EQ/download?force=true&w=1200" width="600" alt="Saturno"/>
 
   <h2>Desenvolvedor por Hobby</h2>
 

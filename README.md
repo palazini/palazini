@@ -2,8 +2,6 @@
 
 <div align="center">
 
-  <img src="https://unsplash.com/photos/RhhFdnVP-EQ/download?force=true&w=1200" width="600" alt="Saturno"/>
-
   <h2>Desenvolvedor por Hobby</h2>
 
   <img

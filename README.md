@@ -39,7 +39,7 @@
   <br/><br/>
 
   <img
-    src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite,postgres,mysql,sqlite,mongodb"
+    src="https://skillicons.dev/icons?i=tailwind,vite,postgres,mysql,sqlite,mongodb"
     alt="Front-end, bancos e tooling"
   />
 

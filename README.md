@@ -7,7 +7,7 @@
   <h2>Desenvolvedor por Hobby</h2>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=C%2FC%2B%2B%2C+Python+e+Stack+Web;Backend+e+ferramentas+de+desenvolvimento;Projetos+pessoais+e+open-source"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=C%2FC%2B%2B%2C+Python+e+Stack+Web;Backend+e+ferramentas+de+desenvolvimento;Projetos+pessoais+e+profissionais"
     alt="Typing SVG"
   />
 
